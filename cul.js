@@ -1,7 +1,3 @@
-/* jshint -W097 */
-// jshint strict:true
-/*jslint node: true */
-/*jslint esversion: 6 */
 /**
  *      CUL/COC / culfw Node.js module
  *      https://github.com/hobbyquaker/cul
