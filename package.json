@@ -36,7 +36,7 @@
     "url": "https://github.com/hobbyquaker/cul/issues"
   },
   "scripts": {
-    "test": "xo && mocha tests/*"
+    "test": "mocha tests/*"
   },
   "license": "GPL-2.0",
   "devDependencies": {
