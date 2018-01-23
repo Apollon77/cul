@@ -6,6 +6,7 @@
  *      Copyright (c) 2014 hobbyquaker <hq@ccu.io>
  *
  */
+ 'use strict';
 
 const util = require('util');
 const EventEmitter = require('events').EventEmitter;

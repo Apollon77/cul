@@ -1,3 +1,4 @@
+'use strict';
 /* global describe, it */
 
 require('should'); // eslint-disable-line import/no-unassigned-import
